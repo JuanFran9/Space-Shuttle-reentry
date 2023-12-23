@@ -6,3 +6,4 @@ Assumptions were made to simplify the model such as assuming the model was in on
 The minimum thickness required to maintain the maximum internal temperature below 175o C with an error of 5o C was 0.0576m.
 
 ![image](https://github.com/JuanFran9/Space-Shuttle-reentry/assets/58949950/19ca3752-5ac9-4cbd-a7a2-4a8c74591686)
+![image](https://github.com/JuanFran9/Space-Shuttle-reentry/assets/58949950/be6c3f0f-b011-4f9b-9291-e256511cf278)
